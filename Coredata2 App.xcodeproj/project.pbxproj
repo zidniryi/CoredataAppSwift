@@ -13,6 +13,7 @@
 		BB15236521300E1C00865FD7 /* Coredata2_App.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BB15236321300E1C00865FD7 /* Coredata2_App.xcdatamodeld */; };
 		BB15236721300E1C00865FD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB15236621300E1C00865FD7 /* Assets.xcassets */; };
 		BB15236A21300E1C00865FD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB15236821300E1C00865FD7 /* LaunchScreen.storyboard */; };
+		BBF407EB2130161800E8A395 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBF407EA2130161800E8A395 /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BB15236621300E1C00865FD7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB15236921300E1C00865FD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB15236B21300E1D00865FD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BBF407EA2130161800E8A395 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BB15236821300E1C00865FD7 /* LaunchScreen.storyboard */,
 				BB15236B21300E1D00865FD7 /* Info.plist */,
 				BB15236321300E1C00865FD7 /* Coredata2_App.xcdatamodeld */,
+				BBF407EA2130161800E8A395 /* User.swift */,
 			);
 			path = "Coredata2 App";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BBF407EB2130161800E8A395 /* User.swift in Sources */,
 				BB15236521300E1C00865FD7 /* Coredata2_App.xcdatamodeld in Sources */,
 				BB15235F21300E1C00865FD7 /* ViewController.swift in Sources */,
 				BB15235D21300E1C00865FD7 /* AppDelegate.swift in Sources */,
